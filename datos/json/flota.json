@@ -1,0 +1,10 @@
+[
+  {
+    "matricula": "1234ABC",
+    "marca": "Ford",
+    "modelo": "Transit",
+    "anio": 2022,
+    "kms_recorridos": 15000.5,
+    "categoria": "Furgoneta"
+  }
+]
